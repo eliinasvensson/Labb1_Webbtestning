@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/först_försök.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Labb1_Webbtestning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Labb1_Webbtestning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="Testning av git i repot" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,12 +65,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770036086742</updated>
-      <workItem from="1770036087887" duration="733000" />
+      <workItem from="1770036087887" duration="1062000" />
     </task>
+    <task id="LOCAL−00001" summary="Testning av git i repot">
+      <option name="closed" value="true" />
+      <created>1770036848110</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1770036848110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testning av git i repot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testning av git i repot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
