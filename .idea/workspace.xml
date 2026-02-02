@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="Testning av git i repot" />
+    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="Hemsida inlagd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/ParkMap.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/ParkMap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/dining_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/dining_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/jskp_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/jskp_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/park_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/park_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/safari_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/safari_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/vip_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/vip_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/dinoapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/dinoapp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/jurap.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/jurap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage-jurap/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +53,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -65,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770036086742</updated>
-      <workItem from="1770036087887" duration="1062000" />
+      <workItem from="1770036087887" duration="2166000" />
     </task>
     <task id="LOCAL−00001" summary="Testning av git i repot">
       <option name="closed" value="true" />
@@ -74,7 +87,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1770036848110</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Hemsida inlagd">
+      <option name="closed" value="true" />
+      <created>1770037199502</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1770037199502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testning av git i repot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testning av git i repot" />
+    <MESSAGE value="Hemsida inlagd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hemsida inlagd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
