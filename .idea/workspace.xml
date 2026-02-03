@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="Hemsida inlagd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/ParkMap.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/ParkMap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/dining_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/dining_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/jskp_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/jskp_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/park_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/park_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/safari_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/safari_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/assets/vip_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/assets/vip_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/dinoapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/dinoapp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/jurap.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/jurap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage-jurap/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/webpage-jurap/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,45 +20,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "eliinasvensson"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eliinasvensson&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/eliinasvensson/Labb1_Webbtestning.git",
-    "accountId": "9fee027f-2ee0-4a14-932e-23d5cfd1f57b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eliinasvensson/Labb1_Webbtestning.git&quot;,
+    &quot;accountId&quot;: &quot;c6d80e25-6145-419d-a253-95724688c803&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="397990sJthzNYvuhLsJ6SDZ0y4i" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pidde/coding/Labb1_Webbtestning&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
-        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
   </component>
@@ -79,6 +71,11 @@
       <option name="presentableId" value="Default" />
       <updated>1770036086742</updated>
       <workItem from="1770036087887" duration="2166000" />
+      <workItem from="1770112596144" duration="778000" />
+      <workItem from="1770113394469" duration="899000" />
+      <workItem from="1770114314604" duration="1611000" />
+      <workItem from="1770116352743" duration="176000" />
+      <workItem from="1770116557691" duration="342000" />
     </task>
     <task id="LOCAL−00001" summary="Testning av git i repot">
       <option name="closed" value="true" />
@@ -104,16 +101,5 @@
     <MESSAGE value="Testning av git i repot" />
     <MESSAGE value="Hemsida inlagd" />
     <option name="LAST_COMMIT_MESSAGE" value="Hemsida inlagd" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
