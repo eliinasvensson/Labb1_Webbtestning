@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="main.py borttagen">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="added  .gitignore file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +13,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Robot Feature File" />
+        <option value="Robot Resource File" />
       </list>
     </option>
   </component>
@@ -76,7 +77,7 @@
       <workItem from="1770114314604" duration="1611000" />
       <workItem from="1770116352743" duration="176000" />
       <workItem from="1770116557691" duration="2599000" />
-      <workItem from="1770283167910" duration="1093000" />
+      <workItem from="1770283167910" duration="1981000" />
     </task>
     <task id="LOCAL−00001" summary="Testning av git i repot">
       <option name="closed" value="true" />
@@ -99,7 +100,14 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1770117126665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="added  .gitignore file">
+      <option name="closed" value="true" />
+      <created>1770284894682</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1770284894682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +117,7 @@
     <MESSAGE value="Testning av git i repot" />
     <MESSAGE value="Hemsida inlagd" />
     <MESSAGE value="main.py borttagen" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.py borttagen" />
+    <MESSAGE value="added  .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added  .gitignore file" />
   </component>
 </project>
