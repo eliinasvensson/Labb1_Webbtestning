@@ -8,7 +8,7 @@ ${Jurap}    http://127.0.0.1:8000/webpage-jurap/jurap.html
 Öppna hemsidan
     Set Selenium Speed    1
     Open Browser    ${Jurap}    Chrome
-    Maximize Browser Window.
+    Maximize Browser Window
 
 Klicka på register
     Click Element    id=register-nav
@@ -23,3 +23,17 @@ Fyll i password
 
 Klicka på register knappen
     Click Button    //*[@id="register-form"]/button
+
+Klicka på login
+    Click Element    id=login-nav
+
+Fyll i ett unikt username
+    Click Element    id=login-username
+    Input Text    id=login-username    Sebastian Jansson
+
+Fyll i ett unikt password
+    Click Element    id=login-password
+    Input Text    id=login-password    12345678
+
+Klicka på login-knappen
+    Click Button    //*[@id="login-form"]/button

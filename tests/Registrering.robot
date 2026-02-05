@@ -7,4 +7,4 @@ Registrera sig
     Klicka på register
     Fyll i username
     Fyll i password
-    Klicka på register knappen.
+    Klicka på register knappen
