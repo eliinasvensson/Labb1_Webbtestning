@@ -8,7 +8,7 @@ ${Jurap}    http://127.0.0.1:8000/webpage-jurap/jurap.html
 Öppna hemsidan
     Set Selenium Speed    1
     Open Browser    ${Jurap}    Chrome
-    Maximize Browser Window
+    Maximize Browser Window.
 
 Klicka på register
     Click Element    id=register-nav
