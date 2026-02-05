@@ -4,7 +4,7 @@ venv/
 ENV/
 
 # PyCharm-specifika filer
-.idea/
+.idea/workspace.xml
 
 # Robot Framework loggar och rapporter
 output.xml
@@ -15,5 +15,4 @@ report.html
 __pycache__/
 *.pyc
 
-# .idea/ filer
-.idea/
+
