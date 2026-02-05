@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="Hemsida inlagd">
+    <list default="true" id="2c1b0cf5-d66c-4ef6-882a-5546146aa5dd" name="Changes" comment="main.py borttagen">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,8 @@
       <workItem from="1770113394469" duration="899000" />
       <workItem from="1770114314604" duration="1611000" />
       <workItem from="1770116352743" duration="176000" />
-      <workItem from="1770116557691" duration="342000" />
+      <workItem from="1770116557691" duration="2599000" />
+      <workItem from="1770283167910" duration="1093000" />
     </task>
     <task id="LOCAL−00001" summary="Testning av git i repot">
       <option name="closed" value="true" />
@@ -91,7 +92,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1770037199502</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="main.py borttagen">
+      <option name="closed" value="true" />
+      <created>1770117126664</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1770117126665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testning av git i repot" />
     <MESSAGE value="Hemsida inlagd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hemsida inlagd" />
+    <MESSAGE value="main.py borttagen" />
+    <option name="LAST_COMMIT_MESSAGE" value="main.py borttagen" />
   </component>
 </project>
