@@ -37,3 +37,9 @@ Fyll i ett unikt password
 
 Klicka på login-knappen
     Click Button    //*[@id="login-form"]/button
+
+Klicka på köpa biljett
+Välj vilken typ av biljett
+Välj biljettkategori
+Välj antal biljetter
+Klicka på lägg till i varukorgen
