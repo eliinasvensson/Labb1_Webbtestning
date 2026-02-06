@@ -39,7 +39,16 @@ Klicka på login-knappen
     Click Button    //*[@id="login-form"]/button
 
 Klicka på köpa biljett
+    Click Element    id=tickets-nav
+    
 Välj vilken typ av biljett
+    Click Element    id=ticket-type
+    Select From List By Value    id=ticket-type    Senior
 Välj biljettkategori
+    Click Element    id=ticket-category   
+    Select From List By Value    id=ticket-category    VIP
 Välj antal biljetter
+    Click Element    id=ticket-quantity
+    Input Text    id=ticket-quantity    3
 Klicka på lägg till i varukorgen
+    Click Button    //*[@id="ticket-form"]/button
