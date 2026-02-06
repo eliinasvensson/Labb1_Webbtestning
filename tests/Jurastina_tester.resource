@@ -10,45 +10,48 @@ ${Jurap}    http://127.0.0.1:8000/webpage-jurap/jurap.html
     Open Browser    ${Jurap}    Chrome
     Maximize Browser Window
 
-Klicka på register
+TC001.Klicka på register
     Click Element    id=register-nav
 
-Fyll i username
+TC001.Fyll i username
     Click Element    id=reg-username
     Input Text    id=reg-username    Sebastian Jansson
 
-Fyll i password
+TC001.Fyll i password
     Click Element    id=reg-password
     Input Text    id=reg-password    12345678
 
-Klicka på register knappen
+TC001.Klicka på register knappen
     Click Button    //*[@id="register-form"]/button
 
-Klicka på login
+TC002.Klicka på login
     Click Element    id=login-nav
 
-Fyll i ett unikt username
+TC002.Fyll i ett unikt username
     Click Element    id=login-username
     Input Text    id=login-username    Sebastian Jansson
 
-Fyll i ett unikt password
+TC002.Fyll i ett unikt password
     Click Element    id=login-password
     Input Text    id=login-password    12345678
 
-Klicka på login-knappen
+TC002.Klicka på login-knappen
     Click Button    //*[@id="login-form"]/button
 
-Klicka på köpa biljett
+TC003.Klicka på köpa biljett
     Click Element    id=tickets-nav
     
-Välj vilken typ av biljett
+TC003.Välj vilken typ av biljett
     Click Element    id=ticket-type
     Select From List By Value    id=ticket-type    Senior
-Välj biljettkategori
+TC003.Välj biljettkategori
     Click Element    id=ticket-category   
     Select From List By Value    id=ticket-category    VIP
-Välj antal biljetter
+TC003.Välj antal biljetter
     Click Element    id=ticket-quantity
     Input Text    id=ticket-quantity    3
-Klicka på lägg till i varukorgen
+TC003.Klicka på lägg till i varukorgen
     Click Button    //*[@id="ticket-form"]/button
+
+TC003. KLickar OK på pop-up fönstret
+    Handle Alert    action=ACCEPT

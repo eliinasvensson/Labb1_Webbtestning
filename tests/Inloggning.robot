@@ -4,7 +4,10 @@ Resource    Jurastina_tester.resource
 *** Test Cases ***
 Logga in
     Öppna Hemsidan
-    Klicka På Login
-    Fyll I Ett Unikt Username
-    Fyll I Ett Unikt Password
-    Klicka På Login-knappen
+Navigerar till Login-sidan
+    TC002.Klicka På Login
+Fyller i uppgifter
+    TC002.Fyll I Ett Unikt Username
+    TC002.Fyll I Ett Unikt Password
+Loggar in
+    TC002.Klicka På Login-knappen
