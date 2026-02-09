@@ -14,3 +14,10 @@ Bekräfta köp
     TC003.Klicka På Lägg Till I Varukorgen
 Klickar på OK
     TC003. KLickar OK På Pop-up Fönstret
+Klicka på varukorgen
+    TC003. Klicka På Varukorgen
+Bekräfta köp
+    TC003.Bekräfta Köp
+Klickar på OK
+    TC003. KLickar OK På Pop-up Fönstret
+

@@ -6,7 +6,7 @@ ${Jurap}    http://127.0.0.1:8000/webpage-jurap/jurap.html
 
 *** Keywords ***
 Öppna hemsidan
-    Set Selenium Speed    1
+    Set Selenium Speed    0.5
     Open Browser    ${Jurap}    Chrome
     Maximize Browser Window
 
@@ -55,3 +55,9 @@ TC003.Klicka på lägg till i varukorgen
 
 TC003. KLickar OK på pop-up fönstret
     Handle Alert    action=ACCEPT
+
+TC003. Klicka på varukorgen
+    Click Element    id=cart-nav
+
+TC003.Bekräfta köp
+    Click Button    //*[@id="checkout-button"]
