@@ -1,9 +1,8 @@
 *** Settings ***
 Resource    Jurastina_tester.resource
+Suite Setup    Öppna Hemsidan
 
 *** Test Cases ***
-Registrera sig
-    Öppna hemsidan
 Navigera till Register
     TC001.Klicka På Register
 Fyller i uppgifter

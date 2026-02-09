@@ -1,9 +1,8 @@
 *** Settings ***
 Resource    Jurastina_tester.resource
+Suite Setup    Öppna Hemsidan
 
 *** Test Cases ***
-Logga in
-    Öppna Hemsidan
 Navigerar till Login-sidan
     TC002.Klicka På Login
 Fyller i uppgifter

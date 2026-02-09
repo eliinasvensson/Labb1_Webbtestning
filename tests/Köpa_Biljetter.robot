@@ -1,8 +1,8 @@
 *** Settings ***
 Resource    Jurastina_tester.resource
+Suite Setup    Öppna Hemsidan, Registrerad Och Inloggad
+
 *** Test Cases ***
-Köpa Biljett
-    Öppna Hemsidan
 Navigerar till köpa biljett sidan
     TC003.Klicka På Köpa Biljett
 Val av biljett
@@ -14,10 +14,11 @@ Bekräfta köp
     TC003.Klicka På Lägg Till I Varukorgen
 Klickar på OK
     TC003. KLickar OK På Pop-up Fönstret
+
 Klicka på varukorgen
-    TC003. Klicka På Varukorgen
+    TC004. Klicka På Varukorgen
 Bekräfta köp
-    TC003.Bekräfta Köp
+    TC004.Bekräfta Köp
 Klickar på OK
-    TC003. KLickar OK På Pop-up Fönstret
+    TC004. KLickar OK På Pop-up Fönstret
 
