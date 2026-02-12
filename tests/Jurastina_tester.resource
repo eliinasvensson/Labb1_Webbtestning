@@ -17,6 +17,10 @@ ${Lösenord}    12345678
     Registrera Användare
     Logga In
 
+Öppna hemsidan, Registrerad, Inloggad och biljetter i varukorg
+    Öppna Hemsidan, Registrerad Och Inloggad
+    Biljetter I Varukorg
+
 Registrera användare
     TC001.Klicka på register
     Click Element    id=register-nav
@@ -44,6 +48,13 @@ Logga in
 
     Click Button    //*[@id="login-form"]/button
 
+Biljetter i varukorg
+    TC003.Klicka På Köpa Biljett
+    TC003.Välj Vilken Typ Av Biljett
+    TC003.Välj Biljettkategori
+    TC003.Välj Antal Biljetter
+    TC003.Klicka På Lägg Till I Varukorgen
+    TC003. KLickar OK På Pop-up Fönstret
 
 TC001.Klicka på register
     Click Element    id=register-nav
@@ -114,3 +125,22 @@ TC005. Väntar på felmeddelande angående lösenord
 TC006. Öppna Buy Tickets sidan
     #Klicka på köpa biljett utan att vara inloggad
     Click Element    id=tickets-nav
+
+TC007. Klicka på boka safari sidan
+    Click Element    id=safari-nav
+
+TC007. Skriv in ett redan passerat datum
+    Click Element    id=safari-date
+    Input Text    id=safari-date    002016-02-16
+
+TC007. Välj typ av safari
+    Click Element    id=safari-type
+    Select From List By Value    id=safari-type    T-Rex Rumble
+
+TC007. Klicka på boka safari
+    Click Button    //*[@id="safari-form"]/button
+
+TC007. Vänta tills felmeddelande syns
+    Wait Until Element Is Visible    id=safari-message
+    
+
