@@ -103,3 +103,10 @@ TC004.Bekräfta köp
 
 TC004. KLickar OK på pop-up fönstret
     Handle Alert    action=ACCEPT
+    
+TC005. Fyller i felaktigt lösenord 
+    #Lösenordet är mindre än 8 tecken och uppfyller inte lösenordskriterier
+    Click Element    id=reg-password
+    Input Text    id=reg-password    1234567
+TC005. Väntar på felmeddelande angående lösenord
+    Wait Until Element Is Visible    id=register-message
