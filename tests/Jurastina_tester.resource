@@ -110,3 +110,7 @@ TC005. Fyller i felaktigt lösenord
     Input Text    id=reg-password    1234567
 TC005. Väntar på felmeddelande angående lösenord
     Wait Until Element Is Visible    id=register-message
+
+TC006. Öppna Buy Tickets sidan
+    #Klicka på köpa biljett utan att vara inloggad
+    Click Element    id=tickets-nav
